@@ -1,0 +1,38 @@
+table, table td {
+    border-color: black 1px;
+    border-style: solid;
+    background-color: coral;
+    padding: 5px;
+}
+
+#tabla4, #tabla5, #tabla4 td, #tabla5 td {
+    background-color: cornflowerblue;
+}
+
+#ej20 {
+    width: 800px;
+    height: 70px;
+    background-color: blue;
+}
+
+form {
+    width: 250px;
+    height: 180px;
+    background-color: grey;
+    border: solid;
+    border-style: 0.5px black;
+    margin-left: 300px;
+}
+
+form input{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top:  5px;
+    padding: 3px;
+    margin-left: 20px;
+}
+
+form button{
+    padding: 6px;
+    margin-left: 70px;
+    margin-top: 10px;
+}
